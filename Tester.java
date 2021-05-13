@@ -1,9 +1,3 @@
-// Title: Linked list, STACK, QUEUE
-// Author : Burak Katı
-// ID:27775185978	
-// Section: 01
-// Assignment: 1
-
 // Description: This class is the tester class that we are 
 // going to use.It tests the basic operations on the stack. 
 public class Tester {
