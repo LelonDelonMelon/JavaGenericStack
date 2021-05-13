@@ -1,9 +1,3 @@
-// Title: Linked list, STACK, QUEUE
-// Author : Burak Katı
-// ID:27775185978	
-// Section: 01
-// Assignment: 1
-
 // Description: This class defines the stack that we are
 // going to use in our program "VaccineStock" 
 // and it is implemented using the
