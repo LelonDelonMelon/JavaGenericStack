@@ -1,6 +1,3 @@
-// Title: Linked list, STACK, QUEUE
-// Author : BurakKatı
-
 // Description: This class is the Driver class that we are 
 // going to use.It asks the user for input and does the user's 
 // desired operation upon the stack until they type "exit"
