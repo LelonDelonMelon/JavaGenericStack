@@ -1,7 +1,6 @@
 
 // Title: Linked list, STACK, QUEUE
-// Author : Burak Katı
-// ID:27775185978	
+// Author : Burak Katı	
 // Section: 01
 // Assignment: 1
 
